@@ -1,0 +1,12 @@
+{
+  "name": "Emplist Web",
+  "description": "TODO: Add a short description about Emplist Web",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
+  ],
+  "repository": "https://git.soma.salesforce.com/asif-khan/odata2",
+  "addons": [],
+  "env": {}
+}
